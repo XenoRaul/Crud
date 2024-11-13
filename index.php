@@ -30,7 +30,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="page-header clearfix">
-                        <h2 class="pull-left">Empleados</h2>
+                        <h2 class="pull-left">RaulA</h2>
                         <a href="create.php" class="btn btn-success pull-right">Agregar nuevo empleado</a>
                     </div>
                     <?php
